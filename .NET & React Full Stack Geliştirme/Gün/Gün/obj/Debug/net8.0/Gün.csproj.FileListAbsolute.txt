@@ -1,0 +1,14 @@
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\Gün\Gün\bin\Debug\net8.0\Gün.exe
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\Gün\Gün\bin\Debug\net8.0\Gün.deps.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\Gün\Gün\bin\Debug\net8.0\Gün.runtimeconfig.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\Gün\Gün\bin\Debug\net8.0\Gün.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\Gün\Gün\bin\Debug\net8.0\Gün.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\Gün\Gün\obj\Debug\net8.0\Gün.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\Gün\Gün\obj\Debug\net8.0\Gün.AssemblyInfoInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\Gün\Gün\obj\Debug\net8.0\Gün.AssemblyInfo.cs
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\Gün\Gün\obj\Debug\net8.0\Gün.csproj.CoreCompileInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\Gün\Gün\obj\Debug\net8.0\Gün.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\Gün\Gün\obj\Debug\net8.0\refint\Gün.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\Gün\Gün\obj\Debug\net8.0\Gün.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\Gün\Gün\obj\Debug\net8.0\Gün.genruntimeconfig.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\Gün\Gün\obj\Debug\net8.0\ref\Gün.dll

@@ -1,0 +1,14 @@
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sifre\sifre\bin\Debug\net8.0\sifre.exe
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sifre\sifre\bin\Debug\net8.0\sifre.deps.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sifre\sifre\bin\Debug\net8.0\sifre.runtimeconfig.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sifre\sifre\bin\Debug\net8.0\sifre.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sifre\sifre\bin\Debug\net8.0\sifre.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sifre\sifre\obj\Debug\net8.0\sifre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sifre\sifre\obj\Debug\net8.0\sifre.AssemblyInfoInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sifre\sifre\obj\Debug\net8.0\sifre.AssemblyInfo.cs
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sifre\sifre\obj\Debug\net8.0\sifre.csproj.CoreCompileInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sifre\sifre\obj\Debug\net8.0\sifre.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sifre\sifre\obj\Debug\net8.0\refint\sifre.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sifre\sifre\obj\Debug\net8.0\sifre.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sifre\sifre\obj\Debug\net8.0\sifre.genruntimeconfig.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sifre\sifre\obj\Debug\net8.0\ref\sifre.dll

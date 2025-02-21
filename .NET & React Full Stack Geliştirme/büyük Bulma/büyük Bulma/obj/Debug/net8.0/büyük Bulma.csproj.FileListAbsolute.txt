@@ -1,0 +1,14 @@
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\büyük Bulma\büyük Bulma\bin\Debug\net8.0\büyük Bulma.exe
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\büyük Bulma\büyük Bulma\bin\Debug\net8.0\büyük Bulma.deps.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\büyük Bulma\büyük Bulma\bin\Debug\net8.0\büyük Bulma.runtimeconfig.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\büyük Bulma\büyük Bulma\bin\Debug\net8.0\büyük Bulma.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\büyük Bulma\büyük Bulma\bin\Debug\net8.0\büyük Bulma.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\büyük Bulma\büyük Bulma\obj\Debug\net8.0\büyük Bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\büyük Bulma\büyük Bulma\obj\Debug\net8.0\büyük Bulma.AssemblyInfoInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\büyük Bulma\büyük Bulma\obj\Debug\net8.0\büyük Bulma.AssemblyInfo.cs
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\büyük Bulma\büyük Bulma\obj\Debug\net8.0\büyük Bulma.csproj.CoreCompileInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\büyük Bulma\büyük Bulma\obj\Debug\net8.0\büyük Bulma.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\büyük Bulma\büyük Bulma\obj\Debug\net8.0\refint\büyük Bulma.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\büyük Bulma\büyük Bulma\obj\Debug\net8.0\büyük Bulma.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\büyük Bulma\büyük Bulma\obj\Debug\net8.0\büyük Bulma.genruntimeconfig.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\büyük Bulma\büyük Bulma\obj\Debug\net8.0\ref\büyük Bulma.dll

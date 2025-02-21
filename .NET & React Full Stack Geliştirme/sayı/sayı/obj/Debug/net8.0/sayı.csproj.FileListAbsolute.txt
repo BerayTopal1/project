@@ -1,0 +1,14 @@
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sayı\sayı\bin\Debug\net8.0\sayı.exe
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sayı\sayı\bin\Debug\net8.0\sayı.deps.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sayı\sayı\bin\Debug\net8.0\sayı.runtimeconfig.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sayı\sayı\bin\Debug\net8.0\sayı.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sayı\sayı\bin\Debug\net8.0\sayı.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sayı\sayı\obj\Debug\net8.0\sayı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sayı\sayı\obj\Debug\net8.0\sayı.AssemblyInfoInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sayı\sayı\obj\Debug\net8.0\sayı.AssemblyInfo.cs
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sayı\sayı\obj\Debug\net8.0\sayı.csproj.CoreCompileInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sayı\sayı\obj\Debug\net8.0\sayı.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sayı\sayı\obj\Debug\net8.0\refint\sayı.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sayı\sayı\obj\Debug\net8.0\sayı.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sayı\sayı\obj\Debug\net8.0\sayı.genruntimeconfig.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\sayı\sayı\obj\Debug\net8.0\ref\sayı.dll

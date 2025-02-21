@@ -1,0 +1,14 @@
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ıntro\ıntro\bin\Debug\net8.0\ıntro.exe
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ıntro\ıntro\bin\Debug\net8.0\ıntro.deps.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ıntro\ıntro\bin\Debug\net8.0\ıntro.runtimeconfig.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ıntro\ıntro\bin\Debug\net8.0\ıntro.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ıntro\ıntro\bin\Debug\net8.0\ıntro.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ıntro\ıntro\obj\Debug\net8.0\ıntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ıntro\ıntro\obj\Debug\net8.0\ıntro.AssemblyInfoInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ıntro\ıntro\obj\Debug\net8.0\ıntro.AssemblyInfo.cs
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ıntro\ıntro\obj\Debug\net8.0\ıntro.csproj.CoreCompileInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ıntro\ıntro\obj\Debug\net8.0\ıntro.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ıntro\ıntro\obj\Debug\net8.0\refint\ıntro.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ıntro\ıntro\obj\Debug\net8.0\ıntro.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ıntro\ıntro\obj\Debug\net8.0\ıntro.genruntimeconfig.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ıntro\ıntro\obj\Debug\net8.0\ref\ıntro.dll

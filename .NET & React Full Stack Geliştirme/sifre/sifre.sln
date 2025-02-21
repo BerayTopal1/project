@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35806.103
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sifre", "sifre\sifre.csproj", "{90F811AE-1AC6-454C-94D5-691AB8A5C73B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90F811AE-1AC6-454C-94D5-691AB8A5C73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F811AE-1AC6-454C-94D5-691AB8A5C73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F811AE-1AC6-454C-94D5-691AB8A5C73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F811AE-1AC6-454C-94D5-691AB8A5C73B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E499B7BA-5C0D-4762-AFBA-63A3FAFDC37A}
+	EndGlobalSection
+EndGlobal
