@@ -1,0 +1,14 @@
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\rakam toplama\rakam toplama\bin\Debug\net8.0\rakam toplama.exe
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\rakam toplama\rakam toplama\bin\Debug\net8.0\rakam toplama.deps.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\rakam toplama\rakam toplama\bin\Debug\net8.0\rakam toplama.runtimeconfig.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\rakam toplama\rakam toplama\bin\Debug\net8.0\rakam toplama.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\rakam toplama\rakam toplama\bin\Debug\net8.0\rakam toplama.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\rakam toplama\rakam toplama\obj\Debug\net8.0\rakam toplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\rakam toplama\rakam toplama\obj\Debug\net8.0\rakam toplama.AssemblyInfoInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\rakam toplama\rakam toplama\obj\Debug\net8.0\rakam toplama.AssemblyInfo.cs
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\rakam toplama\rakam toplama\obj\Debug\net8.0\rakam toplama.csproj.CoreCompileInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\rakam toplama\rakam toplama\obj\Debug\net8.0\rakam toplama.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\rakam toplama\rakam toplama\obj\Debug\net8.0\refint\rakam toplama.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\rakam toplama\rakam toplama\obj\Debug\net8.0\rakam toplama.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\rakam toplama\rakam toplama\obj\Debug\net8.0\rakam toplama.genruntimeconfig.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\rakam toplama\rakam toplama\obj\Debug\net8.0\ref\rakam toplama.dll

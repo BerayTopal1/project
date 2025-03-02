@@ -1,0 +1,14 @@
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\kelime bulma\kelime bulma\bin\Debug\net8.0\kelime bulma.exe
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\kelime bulma\kelime bulma\bin\Debug\net8.0\kelime bulma.deps.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\kelime bulma\kelime bulma\bin\Debug\net8.0\kelime bulma.runtimeconfig.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\kelime bulma\kelime bulma\bin\Debug\net8.0\kelime bulma.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\kelime bulma\kelime bulma\bin\Debug\net8.0\kelime bulma.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\kelime bulma\kelime bulma\obj\Debug\net8.0\kelime bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\kelime bulma\kelime bulma\obj\Debug\net8.0\kelime bulma.AssemblyInfoInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\kelime bulma\kelime bulma\obj\Debug\net8.0\kelime bulma.AssemblyInfo.cs
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\kelime bulma\kelime bulma\obj\Debug\net8.0\kelime bulma.csproj.CoreCompileInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\kelime bulma\kelime bulma\obj\Debug\net8.0\kelime bulma.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\kelime bulma\kelime bulma\obj\Debug\net8.0\refint\kelime bulma.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\kelime bulma\kelime bulma\obj\Debug\net8.0\kelime bulma.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\kelime bulma\kelime bulma\obj\Debug\net8.0\kelime bulma.genruntimeconfig.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\kelime bulma\kelime bulma\obj\Debug\net8.0\ref\kelime bulma.dll

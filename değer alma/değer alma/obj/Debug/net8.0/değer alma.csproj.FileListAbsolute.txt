@@ -1,0 +1,14 @@
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\değer alma\değer alma\bin\Debug\net8.0\değer alma.exe
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\değer alma\değer alma\bin\Debug\net8.0\değer alma.deps.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\değer alma\değer alma\bin\Debug\net8.0\değer alma.runtimeconfig.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\değer alma\değer alma\bin\Debug\net8.0\değer alma.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\değer alma\değer alma\bin\Debug\net8.0\değer alma.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\değer alma\değer alma\obj\Debug\net8.0\değer alma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\değer alma\değer alma\obj\Debug\net8.0\değer alma.AssemblyInfoInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\değer alma\değer alma\obj\Debug\net8.0\değer alma.AssemblyInfo.cs
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\değer alma\değer alma\obj\Debug\net8.0\değer alma.csproj.CoreCompileInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\değer alma\değer alma\obj\Debug\net8.0\değer alma.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\değer alma\değer alma\obj\Debug\net8.0\refint\değer alma.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\değer alma\değer alma\obj\Debug\net8.0\değer alma.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\değer alma\değer alma\obj\Debug\net8.0\değer alma.genruntimeconfig.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\değer alma\değer alma\obj\Debug\net8.0\ref\değer alma.dll
