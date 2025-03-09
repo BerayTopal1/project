@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Beray\\OneDrive\\Masa\u00FCst\u00FC\\.NET \u0026 React Full Stack Geli\u015Ftirme\\\u00F6\u011Frenci notu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{248EEC12-D5AC-4B9A-A3D7-AE14819B9CFD}|\u00F6\u011Frenci notu\\\u00F6\u011Frenci notu.csproj|c:\\users\\beray\\onedrive\\masa\u00FCst\u00FC\\.net \u0026 react full stack geli\u015Ftirme\\\u00F6\u011Frenci notu\\\u00F6\u011Frenci notu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248EEC12-D5AC-4B9A-A3D7-AE14819B9CFD}|\u00F6\u011Frenci notu\\\u00F6\u011Frenci notu.csproj|solutionrelative:\u00F6\u011Frenci notu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\OneDrive\\Masa\u00FCst\u00FC\\.NET \u0026 React Full Stack Geli\u015Ftirme\\\u00F6\u011Frenci notu\\\u00F6\u011Frenci notu\\Program.cs",
+              "RelativeDocumentMoniker": "\u00F6\u011Frenci notu\\Program.cs",
+              "ToolTip": "C:\\Users\\Beray\\OneDrive\\Masa\u00FCst\u00FC\\.NET \u0026 React Full Stack Geli\u015Ftirme\\\u00F6\u011Frenci notu\\\u00F6\u011Frenci notu\\Program.cs",
+              "RelativeToolTip": "\u00F6\u011Frenci notu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:59:16.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

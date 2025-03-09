@@ -1,0 +1,14 @@
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\tersten yazdırma\tersten yazdırma\bin\Debug\net8.0\tersten yazdırma.exe
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\tersten yazdırma\tersten yazdırma\bin\Debug\net8.0\tersten yazdırma.deps.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\tersten yazdırma\tersten yazdırma\bin\Debug\net8.0\tersten yazdırma.runtimeconfig.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\tersten yazdırma\tersten yazdırma\bin\Debug\net8.0\tersten yazdırma.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\tersten yazdırma\tersten yazdırma\bin\Debug\net8.0\tersten yazdırma.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\tersten yazdırma\tersten yazdırma\obj\Debug\net8.0\tersten yazdırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\tersten yazdırma\tersten yazdırma\obj\Debug\net8.0\tersten yazdırma.AssemblyInfoInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\tersten yazdırma\tersten yazdırma\obj\Debug\net8.0\tersten yazdırma.AssemblyInfo.cs
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\tersten yazdırma\tersten yazdırma\obj\Debug\net8.0\tersten yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\tersten yazdırma\tersten yazdırma\obj\Debug\net8.0\tersten yazdırma.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\tersten yazdırma\tersten yazdırma\obj\Debug\net8.0\refint\tersten yazdırma.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\tersten yazdırma\tersten yazdırma\obj\Debug\net8.0\tersten yazdırma.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\tersten yazdırma\tersten yazdırma\obj\Debug\net8.0\tersten yazdırma.genruntimeconfig.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\tersten yazdırma\tersten yazdırma\obj\Debug\net8.0\ref\tersten yazdırma.dll

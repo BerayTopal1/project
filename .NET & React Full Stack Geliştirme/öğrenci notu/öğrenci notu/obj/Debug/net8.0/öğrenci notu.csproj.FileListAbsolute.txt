@@ -1,0 +1,14 @@
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\öğrenci notu\öğrenci notu\bin\Debug\net8.0\öğrenci notu.exe
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\öğrenci notu\öğrenci notu\bin\Debug\net8.0\öğrenci notu.deps.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\öğrenci notu\öğrenci notu\bin\Debug\net8.0\öğrenci notu.runtimeconfig.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\öğrenci notu\öğrenci notu\bin\Debug\net8.0\öğrenci notu.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\öğrenci notu\öğrenci notu\bin\Debug\net8.0\öğrenci notu.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\öğrenci notu\öğrenci notu\obj\Debug\net8.0\öğrenci notu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\öğrenci notu\öğrenci notu\obj\Debug\net8.0\öğrenci notu.AssemblyInfoInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\öğrenci notu\öğrenci notu\obj\Debug\net8.0\öğrenci notu.AssemblyInfo.cs
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\öğrenci notu\öğrenci notu\obj\Debug\net8.0\öğrenci notu.csproj.CoreCompileInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\öğrenci notu\öğrenci notu\obj\Debug\net8.0\öğrenci notu.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\öğrenci notu\öğrenci notu\obj\Debug\net8.0\refint\öğrenci notu.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\öğrenci notu\öğrenci notu\obj\Debug\net8.0\öğrenci notu.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\öğrenci notu\öğrenci notu\obj\Debug\net8.0\öğrenci notu.genruntimeconfig.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\öğrenci notu\öğrenci notu\obj\Debug\net8.0\ref\öğrenci notu.dll

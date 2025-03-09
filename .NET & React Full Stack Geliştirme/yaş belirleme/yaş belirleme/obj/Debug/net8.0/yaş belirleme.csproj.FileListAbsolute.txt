@@ -1,0 +1,14 @@
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\yaş belirleme\yaş belirleme\bin\Debug\net8.0\yaş belirleme.exe
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\yaş belirleme\yaş belirleme\bin\Debug\net8.0\yaş belirleme.deps.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\yaş belirleme\yaş belirleme\bin\Debug\net8.0\yaş belirleme.runtimeconfig.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\yaş belirleme\yaş belirleme\bin\Debug\net8.0\yaş belirleme.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\yaş belirleme\yaş belirleme\bin\Debug\net8.0\yaş belirleme.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\yaş belirleme\yaş belirleme\obj\Debug\net8.0\yaş belirleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\yaş belirleme\yaş belirleme\obj\Debug\net8.0\yaş belirleme.AssemblyInfoInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\yaş belirleme\yaş belirleme\obj\Debug\net8.0\yaş belirleme.AssemblyInfo.cs
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\yaş belirleme\yaş belirleme\obj\Debug\net8.0\yaş belirleme.csproj.CoreCompileInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\yaş belirleme\yaş belirleme\obj\Debug\net8.0\yaş belirleme.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\yaş belirleme\yaş belirleme\obj\Debug\net8.0\refint\yaş belirleme.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\yaş belirleme\yaş belirleme\obj\Debug\net8.0\yaş belirleme.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\yaş belirleme\yaş belirleme\obj\Debug\net8.0\yaş belirleme.genruntimeconfig.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\yaş belirleme\yaş belirleme\obj\Debug\net8.0\ref\yaş belirleme.dll

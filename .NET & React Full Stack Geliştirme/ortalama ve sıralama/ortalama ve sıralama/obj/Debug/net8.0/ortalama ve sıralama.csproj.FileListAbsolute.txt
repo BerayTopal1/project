@@ -1,0 +1,14 @@
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ortalama ve sıralama\ortalama ve sıralama\bin\Debug\net8.0\ortalama ve sıralama.exe
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ortalama ve sıralama\ortalama ve sıralama\bin\Debug\net8.0\ortalama ve sıralama.deps.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ortalama ve sıralama\ortalama ve sıralama\bin\Debug\net8.0\ortalama ve sıralama.runtimeconfig.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ortalama ve sıralama\ortalama ve sıralama\bin\Debug\net8.0\ortalama ve sıralama.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ortalama ve sıralama\ortalama ve sıralama\bin\Debug\net8.0\ortalama ve sıralama.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ortalama ve sıralama\ortalama ve sıralama\obj\Debug\net8.0\ortalama ve sıralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ortalama ve sıralama\ortalama ve sıralama\obj\Debug\net8.0\ortalama ve sıralama.AssemblyInfoInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ortalama ve sıralama\ortalama ve sıralama\obj\Debug\net8.0\ortalama ve sıralama.AssemblyInfo.cs
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ortalama ve sıralama\ortalama ve sıralama\obj\Debug\net8.0\ortalama ve sıralama.csproj.CoreCompileInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ortalama ve sıralama\ortalama ve sıralama\obj\Debug\net8.0\ortalama ve sıralama.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ortalama ve sıralama\ortalama ve sıralama\obj\Debug\net8.0\refint\ortalama ve sıralama.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ortalama ve sıralama\ortalama ve sıralama\obj\Debug\net8.0\ortalama ve sıralama.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ortalama ve sıralama\ortalama ve sıralama\obj\Debug\net8.0\ortalama ve sıralama.genruntimeconfig.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\ortalama ve sıralama\ortalama ve sıralama\obj\Debug\net8.0\ref\ortalama ve sıralama.dll
