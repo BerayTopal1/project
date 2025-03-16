@@ -1,0 +1,14 @@
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\NET React Ödev - Ocak 1\NET React Ödev - Ocak 1\bin\Debug\net8.0\NET React Ödev - Ocak 1.exe
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\NET React Ödev - Ocak 1\NET React Ödev - Ocak 1\bin\Debug\net8.0\NET React Ödev - Ocak 1.deps.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\NET React Ödev - Ocak 1\NET React Ödev - Ocak 1\bin\Debug\net8.0\NET React Ödev - Ocak 1.runtimeconfig.json
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\NET React Ödev - Ocak 1\NET React Ödev - Ocak 1\bin\Debug\net8.0\NET React Ödev - Ocak 1.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\NET React Ödev - Ocak 1\NET React Ödev - Ocak 1\bin\Debug\net8.0\NET React Ödev - Ocak 1.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\NET React Ödev - Ocak 1\NET React Ödev - Ocak 1\obj\Debug\net8.0\NET React Ödev - Ocak 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\NET React Ödev - Ocak 1\NET React Ödev - Ocak 1\obj\Debug\net8.0\NET React Ödev - Ocak 1.AssemblyInfoInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\NET React Ödev - Ocak 1\NET React Ödev - Ocak 1\obj\Debug\net8.0\NET React Ödev - Ocak 1.AssemblyInfo.cs
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\NET React Ödev - Ocak 1\NET React Ödev - Ocak 1\obj\Debug\net8.0\NET React Ödev - Ocak 1.csproj.CoreCompileInputs.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\NET React Ödev - Ocak 1\NET React Ödev - Ocak 1\obj\Debug\net8.0\NET React Ödev - Ocak 1.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\NET React Ödev - Ocak 1\NET React Ödev - Ocak 1\obj\Debug\net8.0\refint\NET React Ödev - Ocak 1.dll
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\NET React Ödev - Ocak 1\NET React Ödev - Ocak 1\obj\Debug\net8.0\NET React Ödev - Ocak 1.pdb
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\NET React Ödev - Ocak 1\NET React Ödev - Ocak 1\obj\Debug\net8.0\NET React Ödev - Ocak 1.genruntimeconfig.cache
+C:\Users\Beray\OneDrive\Masaüstü\.NET & React Full Stack Geliştirme\NET React Ödev - Ocak 1\NET React Ödev - Ocak 1\obj\Debug\net8.0\ref\NET React Ödev - Ocak 1.dll
